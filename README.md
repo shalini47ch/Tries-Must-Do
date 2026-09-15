@@ -12,6 +12,7 @@ Questions with the Patterns they follow
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1143-longest-common-subsequence](https://github.com/shalini47ch/Tries-Must-Do/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/shalini47ch/Tries-Must-Do/tree/master/1268-search-suggestions-system) |
 ## Design
 |  |
@@ -44,4 +45,12 @@ Questions with the Patterns they follow
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/shalini47ch/Tries-Must-Do/tree/master/1268-search-suggestions-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shalini47ch/Tries-Must-Do/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shalini47ch/Tries-Must-Do/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
