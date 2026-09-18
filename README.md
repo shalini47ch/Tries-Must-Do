@@ -78,6 +78,7 @@ class Trie:
 ## Array
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shalini47ch/Tries-Must-Do/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String
 |  |
@@ -86,5 +87,14 @@ class Trie:
 ## Trie
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shalini47ch/Tries-Must-Do/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
