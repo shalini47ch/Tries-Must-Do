@@ -80,17 +80,20 @@ class Trie:
 | ------- |
 | [0212-word-search-ii](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shalini47ch/Tries-Must-Do/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0212-word-search-ii) |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shalini47ch/Tries-Must-Do/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shalini47ch/Tries-Must-Do/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |
@@ -108,4 +111,16 @@ class Trie:
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0212-word-search-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
+## Sorting
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/shalini47ch/Tries-Must-Do/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
